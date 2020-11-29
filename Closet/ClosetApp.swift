@@ -11,7 +11,7 @@ import SwiftUI
 struct ClosetApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ClosetView()
         }
     }
 }
