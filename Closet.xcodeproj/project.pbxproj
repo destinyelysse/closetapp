@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F708AE8D257F486A00D7E007 /* ArticleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F708AE8C257F486A00D7E007 /* ArticleView.swift */; };
 		F723F6AF25735C3800BE9240 /* AddNewArticle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F723F6AE25735C3800BE9240 /* AddNewArticle.swift */; };
 		F72A58CC257339DF00359946 /* ClosetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72A58CB257339DF00359946 /* ClosetApp.swift */; };
 		F72A58CE257339DF00359946 /* ClosetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72A58CD257339DF00359946 /* ClosetView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F708AE8C257F486A00D7E007 /* ArticleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleView.swift; sourceTree = "<group>"; };
 		F723F6AE25735C3800BE9240 /* AddNewArticle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewArticle.swift; sourceTree = "<group>"; };
 		F72A58C8257339DF00359946 /* Closet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Closet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F72A58CB257339DF00359946 /* ClosetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosetApp.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				F72A58CB257339DF00359946 /* ClosetApp.swift */,
 				F72A58CD257339DF00359946 /* ClosetView.swift */,
+				F708AE8C257F486A00D7E007 /* ArticleView.swift */,
 				F723F6AE25735C3800BE9240 /* AddNewArticle.swift */,
 				F72A58CF257339E700359946 /* Assets.xcassets */,
 				F72A58D4257339E700359946 /* Info.plist */,
@@ -144,6 +147,7 @@
 				F72A58CE257339DF00359946 /* ClosetView.swift in Sources */,
 				F72A58CC257339DF00359946 /* ClosetApp.swift in Sources */,
 				F723F6AF25735C3800BE9240 /* AddNewArticle.swift in Sources */,
+				F708AE8D257F486A00D7E007 /* ArticleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
